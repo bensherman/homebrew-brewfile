@@ -20,6 +20,7 @@ brew "shellcheck"
 brew "the_silver_searcher"
 brew "tree"
 brew "watch"
+brew "libyaml" # for ruby-build
 cask "alfred"
 cask "backblaze"
 cask "dash"
